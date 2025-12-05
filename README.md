@@ -33,7 +33,7 @@
 
 ### 🔹 Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,mysql,postman" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,mysql,swagger" />
 </p>
 
 ---
