@@ -28,7 +28,7 @@
 
 ### 🔹 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,react,spring,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,react,spring,bootstrap,testing" />
 </p>
 
 ### 🔹 Tools
