@@ -44,21 +44,6 @@
 A responsive portfolio showcasing my skills, projects & resume.  
 🔗 Live: **https://kavipriyapanneerselvam04.github.io/portfolio/**
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kavipriyapanneerselvam04&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavipriyapanneerselvam04&layout=compact&theme=radical" />
-</p>
-
----
-
-## ⚡ Fun Developer GIF
-<p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="430">
-</p>
 
 ---
 
