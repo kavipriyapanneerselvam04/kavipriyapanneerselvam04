@@ -90,7 +90,7 @@ Seeking opportunities to apply my skills, learn industry best practices, and con
   
 ---
 
-### 🟣 **SafeHer – Women Safety Application** (React JS, Node.js, Express.js, MySQL) — *2025*
+### 🟣 **SafeHer – Women Safety Application** (React JS, Node.js, Express.js, MySQL) — *2026*
 - Developed a full-stack women safety application with live GPS location tracking and an interactive map.
 - Implemented emergency SOS alerts, panic button, fall detection simulation, and geo-fencing features.
 - Added SMS alert functionality to notify emergency contacts with the user's current location.
@@ -98,7 +98,7 @@ Seeking opportunities to apply my skills, learn industry best practices, and con
 
 ---
 
-### 🟣 **JobSphere – Job Portal** (React JS, Node.js, Express.js, MySQL) — *2025*
+### 🟣 **JobSphere – Job Portal** (React JS, Node.js, Express.js, MySQL) — *2026*
 - Developed a full-stack job portal with role-based access for job seekers and recruiters.
 - Implemented secure authentication and authorization using JWT.
 - Built features including job posting, resume upload, job applications, and application status tracking.
