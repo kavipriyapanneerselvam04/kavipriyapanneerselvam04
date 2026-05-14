@@ -87,8 +87,22 @@ Seeking opportunities to apply my skills, learn industry best practices, and con
 ### 🟣 **Course Management System** (React JS) — *2024*  
 - Created a course management application with enrollment, content access, and responsive UI.  
 - Built interactive components and client-side routing for a smooth user experience.
+  
+---
+
+### 🟣 **SafeHer – Women Safety Application** (React JS, Node.js, Express.js, MySQL) — *2025*
+- Developed a full-stack women safety application with live GPS location tracking and an interactive map.
+- Implemented emergency SOS alerts, panic button, fall detection simulation, and geo-fencing features.
+- Added SMS alert functionality to notify emergency contacts with the user's current location.
+- Built a responsive dashboard for managing safety settings and emergency contacts.
 
 ---
+
+### 🟣 **JobSphere – Job Portal** (React JS, Node.js, Express.js, MySQL) — *2025*
+- Developed a full-stack job portal with role-based access for job seekers and recruiters.
+- Implemented secure authentication and authorization using JWT.
+- Built features including job posting, resume upload, job applications, and application status tracking.
+- Designed recruiter dashboards for managing jobs and reviewing applicants.
 
 # 🏅 Certificates  
 - Java Certification  
